@@ -2,6 +2,8 @@ install.packages(c("tidyverse", "ggplot2", "dplyr", "tidyr", "corrplot", "GGally
 
 library(dplyr) # pour la manipulation de données ( regle le problème de %>% )
 
+library(ggplot2) # pour la visualisation de données
+
 
 "Etape 1 : Exploration et péréparation des données"
 # charger le dataset iris
